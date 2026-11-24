@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Started on your DE10-Nano"
-    link: "https://forums.1fpga.com/t/13"
+    link: "https://forums.1retro.com/t/13"
 
 # Features
 features:

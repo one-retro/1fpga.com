@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [[navigation_button]]
 enable = true
 label = "Join Our Discord"
-link = "https://discord.gg/MXqP6cSHVS"
+link = "https://discord.gg/vYKSvqVkdE"
 
 #[[navigation_button]]
 #enable = true
@@ -49,7 +49,7 @@ link = "https://discord.gg/MXqP6cSHVS"
 #[[navigation_button]]
 #enable = true
 #label = "GitHub"
-#link = "http://github.com/1fpga/"
+#link = "http://github.com/one-retro/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
