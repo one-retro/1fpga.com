@@ -12,6 +12,6 @@ testimonials:
     content: "Hans is the creator of 1FPGA, and the mean engineering lead behind it. He has over 30 years of experience in frontend, backend and embedded development. He is a passionate gamer and a hardware enthusiast and collector. He is also a father of two and a husband. He is a strong advocate for open-source software and hardware, and believes that the future of gaming is in the hands of the community."
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---
